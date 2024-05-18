@@ -1,4 +1,4 @@
-import { QuartzConfig } from "./quartz/cfg"
+enimport { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Ellen Su",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
