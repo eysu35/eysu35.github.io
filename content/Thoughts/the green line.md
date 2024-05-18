@@ -3,8 +3,9 @@ title: the green line
 draft: false
 tags: []
 enableToc: true
+date: 04/14/2024
 ---
-**
+
  Do you ever enjoy the silence of a crowded space? I first had this thought on the green line, during a too-early morning commute. The season, relevant here, is winter. In the winter, Boston is unbikeable for most and unwalkable for all. Commuters become reliant on the various colors of public transportation, each more infamously unreliable than the next. When the city attempts repairs, the neverending closures and weekly replacement shuttle bus announcements only add to the headache, making an already overinflated topic of complaint reach new heights. 
 
   
@@ -18,4 +19,3 @@ Now imagine the scene I just described, but in perfect silence. Not global silen
 I could be romanticizing the subway. I’ll admit, I was the one having a really great morning. But whether it be transportation thoughts or the way observing the unperceived often leads to ambitious thinking, I was struck by how, to be a silent rider on the green line is to feel the effect of loneliness amidst camaraderie. The unique, or entirely universal, experience of being a human of humanity. Luckily, we are now approaching a station where this train will stop for service repairs, where we will wedge our way out, tumble back into our days, and do this once again.
 
   
-**

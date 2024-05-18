@@ -1,4 +1,5 @@
 ---
+title: here are some of the things I write
 longform:
   format: scenes
   title: Thoughts
