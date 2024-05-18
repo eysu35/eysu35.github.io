@@ -1,5 +1,5 @@
 ---
-title: "Graph View"
+title: "Explore Graph"
 tags:
   - component
 ---
