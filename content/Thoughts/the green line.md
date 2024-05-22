@@ -1,10 +1,12 @@
 ---
 title: the green line
 draft: false
-tags: []
+tags: 
 enableToc: true
-date: 04/14/2024
+date: 03/13/2024
 ---
+![[IMG_0438-removebg-preview 1.png]]
+
 
  Do you ever enjoy the silence of a crowded space? I first had this thought on the green line, during a too-early morning commute. The season, relevant here, is winter. In the winter, Boston is unbikeable for most and unwalkable for all. Commuters become reliant on the various colors of public transportation, each more infamously unreliable than the next. When the city attempts repairs, the neverending closures and weekly replacement shuttle bus announcements only add to the headache, making an already overinflated topic of complaint reach new heights. 
 

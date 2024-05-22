@@ -1,9 +1,9 @@
 ---
-title: the green line
+title: the meaning of life according to my inbox
 draft: false
-tags: []
+tags: 
 enableToc: true
-date: 04/14/2024
+date: 09/07/2023
 ---
 Recently, my Gmail account has doubled as my journal. I can’t stop writing emails. Not the usual, 10-liner, meeting set-up emails, but lengthy, rambling, floods of words in which I entirely reveal my personal vulnerabilities to recipients I have never met before. My subject line: “Advice for a Graduate.” My goal: to gather the instructions for life. 
 
@@ -72,5 +72,5 @@ My friend, Grace Jennings (Duke ‘23), compared these periods of internal storm
 I don’t know if I will ever ‘understand’ life. I don’t know what it would mean to do so. But I do believe that every individual will spend their entire lifetime learning the lessons of living, and this questioning, redefining, expository thinking is productive in some way. In the meantime, I believe all I can do is try, think, reflect on my choices, accept that I will make mistakes, learn from them, love, let music, art, and literature guide the way, spend time outside, laugh as much and as often as I can, and just… let go of the reins a little. I do think that everything will be okay; I am sure that one day, I will look back on being 22 and being completely perplexed at the great big world in front of me and smile. What was I so worried about?
 
 
-[Here](https://nassauweekly.com/the-meaning-of-life-according-to-my-inbox/#google_vignette) is the original source, or, google "redirect our purposes" (with quotes)...
+[Here](https://nassauweekly.com/the-meaning-of-life-according-to-my-inbox/#google_vignette) is the original source of this article, or, google "redirect our purposes" (with quotes)...
 
