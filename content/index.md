@@ -8,8 +8,7 @@ I am interested in intelligence! Of both humans and machines. My research applie
 Previously at Princeton, I studied Computer Science with certificates in Applied Math and Cognitive Science. My senior thesis was advised by <a href="https://cocosci.princeton.edu/tom/index.php" target="_blank">Tom Griffiths</a> and explored how iterated learning can reveal the inductive biases of CNNs. 
 
 ---
-<img src="images/hike.png" align="left" width="150" hspace="10" vspace=”10”>
-<img style=”padding: 0px 0px 0px 3px;” />
+<img src="images/hike.png" align="left" style="padding: 10px" width="150" hspace="10" vspace=”10”>
 
 Here are some [[thoughts/]].
 
