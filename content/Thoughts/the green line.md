@@ -1,10 +1,9 @@
 ---
-title: the green line 
+title: The Green Line
 draft: false
 tags: 
 enableToc: true
 date: 03/13/2024
-
 ---
 <img src="images/greenline.png" width="150" style="display: block; margin-left: auto; margin-right: auto;">
 

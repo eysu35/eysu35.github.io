@@ -1,5 +1,5 @@
 ---
-title: the meaning of life according to my inbox
+title: The Meaning of Life According to My Inbox
 draft: false
 tags: 
 enableToc: true
