@@ -9,14 +9,15 @@ Previously at Princeton, I studied Computer Science with certificates in Applied
 
 ---
 <img src="images/hike.png" width="240"  align="left" style="padding: 4px" hspace="50">
+&emsp;
 
-&emsp; Here are
+&emsp; Here are:
 
-&emsp; - some [[content/thoughts/]]
+&emsp;&emsp; - some [[content/thoughts/]]
 
-&emsp; - some [[content/papers/]]
+&emsp;&emsp; - some [[Publications]]
 
-&emsp; - and my <a href="https://drive.google.com/file/d/1MH05vQudY_B5JdtxP_p-FDjRIJ7dZpMC/view?usp=drive_link" target="_blank">curriculum vitae</a>
+&emsp;&emsp; - and my <a href="https://drive.google.com/file/d/1MH05vQudY_B5JdtxP_p-FDjRIJ7dZpMC/view?usp=drive_link" target="_blank">curriculum vitae</a>
 
 ---
 Talk to me about <a href="https://strava.app.link/wUsXaJj1cIb" target="_blank">running</a> or <a href="https://www.goodreads.com/user/show/163690984-ellen-su" target="_blank">reading</a>!
