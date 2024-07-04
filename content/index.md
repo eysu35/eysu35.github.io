@@ -1,6 +1,7 @@
 ---
-[[me.jpg]]
+title: Hello!
 ---
+<img src="images/me.jpg" width="150" style="display: block; margin-left: auto; margin-right: auto;">
 
 I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language in RL. 
 
