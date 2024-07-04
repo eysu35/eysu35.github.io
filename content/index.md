@@ -15,7 +15,7 @@ Previously at Princeton, I studied Computer Science with certificates in Applied
 
 &emsp;&emsp; - some [[content/thoughts/]]
 
-&emsp;&emsp; - some [[Publications]]
+&emsp;&emsp; - some [[publications]]
 
 &emsp;&emsp; - and my <a href="https://drive.google.com/file/d/1MH05vQudY_B5JdtxP_p-FDjRIJ7dZpMC/view?usp=drive_link" target="_blank">curriculum vitae</a>
 
