@@ -1,10 +1,11 @@
----
-title: "`r x <- Hi, I'm Ellen!;
-split_x <- strsplit(x, "")[[1]]; 
+```{r}
+x <- Hi, I'm Ellen!
+split_x <- strsplit(x, "")[[1]]
 for (c in split_x) {
-print(c); 
-Sys.sleep(0.5)
-}`"
+	print(c)
+	Sys.sleep(0.5)
+	}
+```
 ---
 <img src="images/me.jpg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language and reinforcement learning. 
 
