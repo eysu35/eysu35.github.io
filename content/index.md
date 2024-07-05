@@ -14,9 +14,9 @@ Previously at Princeton, I studied Computer Science with certificates in Applied
 
 &emsp; Here is a view of Acatenango, Guatemala as you browse through:
 
-&emsp;&emsp; - my [[thoughts]]
-
 &emsp;&emsp; - my [[publications]],
+
+&emsp;&emsp; - my [[thoughts]],
 
 &emsp;&emsp; - and my <a href="https://drive.google.com/file/d/1MH05vQudY_B5JdtxP_p-FDjRIJ7dZpMC/view?usp=drive_link" target="_blank">curriculum vitae</a>.
 

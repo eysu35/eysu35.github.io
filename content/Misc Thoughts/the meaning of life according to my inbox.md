@@ -5,6 +5,8 @@ tags:
 enableToc: true
 date: 09/07/2023
 ---
+<img src="images/thinker.png" width="150" style="display: block; margin-left: auto; margin-right: auto;">
+
 Recently, my Gmail account has doubled as my journal. I can’t stop writing emails. Not the usual, 10-liner, meeting set-up emails, but lengthy, rambling, floods of words in which I entirely reveal my personal vulnerabilities to recipients I have never met before. My subject line: “Advice for a Graduate.” My goal: to gather the instructions for life. 
 
 
