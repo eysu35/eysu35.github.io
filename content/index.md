@@ -6,6 +6,18 @@ for (c in split_x) {
 	Sys.sleep(0.5)
 	}
 ```
+```python
+<<r setup, include=FALSE>>=
+knitr::opts_chunk$set(echo=FALSE, engine='whathaveyou', ...)
+```
+```python
+<<engine='python', engine.path='python3'>>=
+print("hi")
+```
+
+```bash
+<div id="msg"/>
+```
 
 <img src="images/me.jpg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language and reinforcement learning. 
 
