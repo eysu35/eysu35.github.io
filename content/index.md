@@ -1,24 +1,7 @@
-```{r}
-x <- Hi, I'm Ellen!
-split_x <- strsplit(x, "")[[1]]
-for (c in split_x) {
-	print(c)
-	Sys.sleep(0.5)
-	}
-```
-```python
-<<r setup, include=FALSE>>=
-knitr::opts_chunk$set(echo=FALSE, engine='whathaveyou', ...)
-```
-```python
-<<engine='python', engine.path='python3'>>=
-print("hi")
-```
-
-```bash
-<div id="msg"/>
-```
-
+---
+header="Hi I'm Ellen"
+---
+ 
 <img src="images/me.jpg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language and reinforcement learning. 
 
 I am interested in intelligence! Of both humans and machines. My research applies computer science to human cognition, and I hope insights into human thinking and learning will inform the development of sustainable AI systems. 
