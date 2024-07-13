@@ -32,10 +32,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 // `
 
 PageTitle.css = `
-html{
-  min-height: 100%;
-  overflow: hidden;
-}
+// html{
+//   min-height: 100%;
+//   overflow: hidden;
+// }
 // body{
 //   height: calc(100vh - 8em);
 //   padding: 4em;
