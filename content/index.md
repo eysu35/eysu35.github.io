@@ -1,5 +1,6 @@
 ---
-header="Hi I'm Ellen"
+title: "Hi I'm Ellen"
+header: "Hi I'm Ellen"
 ---
  
 <img src="images/me.jpg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language and reinforcement learning. 
