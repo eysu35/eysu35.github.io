@@ -6,7 +6,7 @@ for (c in split_x) {
 	Sys.sleep(0.5)
 	}
 ```
----
+
 <img src="images/me.jpg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. My current focus is on language and reinforcement learning. 
 
 I am interested in intelligence! Of both humans and machines. My research applies computer science to human cognition, and I hope insights into human thinking and learning will inform the development of sustainable AI systems. 
