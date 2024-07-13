@@ -4,7 +4,8 @@ import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
 /* Google Fonts */
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+// import url 
+// import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 /* Global */
 html{
@@ -27,20 +28,20 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   )
 }
 
-PageTitle.css = `
-.page-title {
-  margin: 0;
-}
-`
+// PageTitle.css = `
+// .page-title {
+//   margin: 0;
+// }
+// `
 
 PageTitle.css = `
-body{
-  height: calc(100vh - 8em);
-  padding: 4em;
-  color: rgba(255,255,255,.75);
-  font-family: 'Anonymous Pro', monospace;  
-  background-color: rgb(25,25,25);  
-}
+// body{
+//   height: calc(100vh - 8em);
+//   padding: 4em;
+//   color: rgba(255,255,255,.75);
+//   font-family: 'Anonymous Pro', monospace;  
+//   background-color: rgb(25,25,25);  
+// }
 .line-1{
     position: relative;
     top: 50%;  
