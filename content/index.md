@@ -6,14 +6,19 @@ title: Hi!
 
 I am interested in intelligence! Of both humans and machines. My research applies machine learning to human cognition, and I hope insights into human thinking and learning will inform the future development of sustainable AI systems. 
 
-Previously at Princeton, I completed my Bachelor of Science in Computer Science with certificates in Applied Math and Cognitive Science. My senior thesis was advised by <a href="https://cocosci.princeton.edu/tom/index.php" target="_blank">Tom Griffiths</a> and explored how iterated learning can reveal the inductive biases of CNNs. Following, I continued my research in the <a href="https://carpenter-singh-lab.broadinstitute.org/" target="_blank">Carpenter-Singh lab </a> at the Broad Institute of MIT and Harvard, applying graph neural networks to identifying drug targets. 
+Previously at Princeton, I completed my Bachelor of Science in Computer Science with certificates in Applied Math and Cognitive Science. My senior thesis was advised by <a href="https://cocosci.princeton.edu/tom/index.php" target="_blank">Tom Griffiths</a> and explored how iterated learning can reveal the inductive biases of CNNs. Following, I continued my research in the <a href="https://carpenter-singh-lab.broadinstitute.org/" target="_blank">Carpenter-Singh lab </a> at the Broad Institute of MIT and Harvard, applying graph neural networks to identify drug targets. 
 
 ---
 </figure>
 <img src="images/hike.png" width="240"  align="left" style="padding: 4px" hspace="50">
+
+<img src="images/hike2.png" width="240"  align="left" style="padding: 4px" hspace="50">
+<img src="images/hike3.png" width="240"  align="left" style="padding: 4px" hspace="50">
+
+
 &emsp;
 
-&emsp; Here is a sunrise at Acatenango, Guatemala as you browse:
+&emsp; Here is a sunrise from Acatenango, Guatemala as you browse:
 
 &emsp;&emsp; - my [[publications]],
 
