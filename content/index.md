@@ -19,7 +19,7 @@ Enjoy these photos from my favorite sunrise hikes as you browse through:
 
 &emsp;&emsp; - my [[publications]],
 
-&emsp;&emsp; - my [[Thoughts]],
+&emsp;&emsp; - my [[thoughts]],
 
 &emsp;&emsp; - and my [[CV]].
 
