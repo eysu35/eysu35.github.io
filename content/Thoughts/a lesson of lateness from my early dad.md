@@ -1,6 +1,6 @@
 ---
 title: A Lesson of Lateness from my Early Dad
-draft: false
+draft: true
 tags: 
 enableToc: true
 date: 03/13/2024
