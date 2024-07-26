@@ -10,15 +10,12 @@ Previously at Princeton, I completed my Bachelor of Science in Computer Science 
 
 ---
 </figure>
-<img src="images/hike.png" width="240"  align="left" style="padding: 4px" hspace="50">
+<img src="images/hike3.png" width="240" height="200" align="left" style="padding: 4px" hspace="50">
 
-<img src="images/hike2.png" width="240"  align="left" style="padding: 4px" hspace="50">
-<img src="images/hike3.png" width="240"  align="left" style="padding: 4px" hspace="50">
+<img src="images/hike2.png" width="240" height="200" align="left" style="padding: 4px" hspace="50">
+<img src="images/hike.png" width="240" height="200" align="left" style="padding: 4px" hspace="50">
 
-
-&emsp;
-
-&emsp; Here is a sunrise from Acatenango, Guatemala as you browse:
+Enjoy these photos from my favorite sunrise hikes as you browse through:
 
 &emsp;&emsp; - my [[publications]],
 
