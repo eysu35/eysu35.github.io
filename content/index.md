@@ -21,5 +21,7 @@ Previously at Princeton, I completed my Bachelor of Science in Computer Science 
 
 &emsp;&emsp; - and my <a href="https://drive.google.com/file/d/1MH05vQudY_B5JdtxP_p-FDjRIJ7dZpMC/view?usp=drive_link" target="_blank">curriculum vitae</a>.
 
+[[CV]]
+
 ---
 Lastly, talk to me about <a href="https://strava.app.link/wUsXaJj1cIb" target="_blank">running</a> or <a href="https://www.goodreads.com/user/show/163690984-ellen-su" target="_blank">reading</a>!
