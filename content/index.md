@@ -17,11 +17,11 @@ Previously at Princeton, I completed my Bachelor of Science in Computer Science 
 
 Enjoy these photos from my favorite sunrise hikes as you browse through:
 
-&emsp;&emsp; - my [[publications]],
+&emsp; - my [[publications]],
 
-&emsp;&emsp; - my [[thoughts]],
+&emsp; - my [[thoughts]],
 
-&emsp;&emsp; - and my [[CV]].
+&emsp; - and my [[CV]].
 
 ---
 Lastly, talk to me about <a href="https://strava.app.link/wUsXaJj1cIb" target="_blank">running</a> or <a href="https://www.goodreads.com/user/show/163690984-ellen-su" target="_blank">reading</a>!
