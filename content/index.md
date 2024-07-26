@@ -17,9 +17,9 @@ Previously at Princeton, I completed my Bachelor of Science in Computer Science 
 
 Enjoy these photos from my favorite sunrise hikes as you browse through:
 
-&emsp; - my [[publications]],
+&emsp; - my [[Publications]],
 
-&emsp; - my [[thoughts]],
+&emsp; - my [[Thoughts]],
 
 &emsp; - and my [[CV]].
 
