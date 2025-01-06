@@ -4,6 +4,7 @@ draft:
 tags:
   - 
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SHLL8D9TP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9SHLL8D9TP'); </script>
 
 Robust Intelligence
 1. <p> <span style="color: orange;">Su, E.</span>, Vellore, A., Chang, A., Mura, R., Nelson, B., Kassianik, P., and Karbasi, A. (2024). Extracting Memorized Training Data via Decomposition. 2024 September 18  <a href="https://doi.org/10.48550/arXiv.2409.12367"target="_blank">[Preprint]</a></p> 

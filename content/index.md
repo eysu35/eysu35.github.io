@@ -1,6 +1,7 @@
 ---
 title: Hi,
 ---
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SHLL8D9TP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9SHLL8D9TP'); </script>
  
 <img src="images/me3.jpeg" width="200" align="right" style="padding: 4px"> I am a first year PhD student at NYU working with <a href="https://todd.gureckislab.org/" target="_blank">Todd Gureckis</a> in the <a href="https://gureckislab.org/" target="_blank">Computation and Cognition Lab</a>. I study language and decision making in humans and machines. Currently, I am taking a game theoretic approach to building a computational model of multi-turn intent detection. This work has implications in computer assistants, language-directed robotics, and cybersecurity. 
 
