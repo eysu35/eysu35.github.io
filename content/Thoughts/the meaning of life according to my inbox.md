@@ -67,7 +67,7 @@ I feel immense gratitude for the validation and kindness I have received from th
 
   
 
-My friend, Grace Jennings (Duke ‘23), compared these periods of internal storminess to the upwelling of cold water in a lake. When they happen, she says that all we can do is paddle forward into the sun-warmed waters. We can trust that, throughout our lives, we will swim out of these cold spots as many times as we will run into them.
+My friend Grace compared these periods of internal storminess to the upwelling of cold water in a lake. When they happen, she says that all we can do is paddle forward into the sun-warmed waters. We can trust that, throughout our lives, we will swim out of these cold spots as many times as we will run into them.
 
   
 
