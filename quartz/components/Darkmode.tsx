@@ -8,6 +8,8 @@ import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
 const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  console.log("🌗 darkmode.inline.ts script loaded")
+
   return (
     <div class={classNames(displayClass, "darkmode")}>
       <input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex={-1} />

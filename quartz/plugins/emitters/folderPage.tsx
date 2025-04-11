@@ -20,12 +20,16 @@ import { FolderContent } from "../../components"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 import DepGraph from "../../depgraph"
+import Darkmode from "../../components/Darkmode"
+
 
 export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
+    header: sharedPageComponents.header,
     pageBody: FolderContent(),
+    footer: Darkmode(),
     ...userOpts,
   }
 
