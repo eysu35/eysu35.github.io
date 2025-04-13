@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [Component.TopNav()],
   footer: Component.Footer({
     links: {
+      "Google Scholar": "https://scholar.google.com/citations?hl=en&user=Tzp43qcAAAAJ",
       "GitHub": "https://github.com/eysu35/",
       "LinkedIn": "https://www.linkedin.com/in/ellen-su-4384221a6/",
     },
