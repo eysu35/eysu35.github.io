@@ -34,11 +34,11 @@ tags:
   </div>
 
   <div class="pub-entry">
-    <div class="pub-label">NeurIPS</div>
+    <div class="pub-label">NeurIPS<br><span style="color: gold; font-size:0.65rem;">spotlight</span></div>
     <div class="pub-detail">
       <p class="pub-title"><strong>MOTIVE: A Drug-Target Interaction Graph For Inductive Link Prediction</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, John Arevalo, Anne E. Carpenter, Shantanu Singh</p>
-      <p class="pub-meta">NeurIPS Datasets and Benchmarks <span style="color: gold;">spotlight</span>. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank">[Paper]</a></p>
+      <p class="pub-meta">NeurIPS Datasets and Benchmarks. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank">[Paper]</a></p>
     </div>
   </div>
 
