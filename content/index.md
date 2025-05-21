@@ -16,7 +16,7 @@ Key interests: machine learning, cognitive science, AI
 <img src="images/hike2.png" width="240" height="200" align="left" style="padding: 4px" hspace="50">
 <img src="images/hike.png" width="240" height="200" align="left" style="padding: 4px" hspace="50">
 
-Enjoy these photos from my favorite sunrise hikes as you browse through:
+Enjoy photos from my favorite sunrise hikes as you browse through:
 
 &emsp; - my [[Publications]],
 
