@@ -17,7 +17,7 @@ tags:
     <div class="pub-detail">
       <p class="pub-title"><strong>Integration of Language and Experience via the Instructed Bandit Task</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Mark K. Ho, Todd M. Gureckis</p>
-      <p class="pub-meta"><a href="" target="_blank">[In prep]</a></p>
+      <p class="pub-meta"><a href="https://escholarship.org/content/qt1j746305/qt1j746305.pdf" target="_blank">[Paper]</a></p>
     </div>
   </div>
 
