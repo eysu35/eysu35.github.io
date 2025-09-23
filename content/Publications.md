@@ -13,11 +13,20 @@ tags:
   <div class="pub-year">2025</div>
 
   <div class="pub-entry">
+    <div class="pub-label">NeurIPS</div>
+    <div class="pub-detail">
+      <p class="pub-title"><strong>Opinion: Learning Intuitive Physics Requires More Than Visual Data</strong></p>
+      <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Solim Legris, Todd M. Gureckis, Mengye Ren</p> 
+      <p class="pub-meta"><em> NeurIPS Embodied World Models for Decision Making Workshop</em> <a href="https://openreview.net/pdf?id=z9WKQF2kJD" target="_blank">[Paper]</a></p>
+    </div>
+  </div>
+
+  <div class="pub-entry">
     <div class="pub-label">CogSci</div>
     <div class="pub-detail">
       <p class="pub-title"><strong>Integration of Language and Experience via the Instructed Bandit Task</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Mark K. Ho, Todd M. Gureckis</p>
-      <p class="pub-meta"><a href="https://escholarship.org/content/qt1j746305/qt1j746305.pdf" target="_blank">[Paper]</a></p>
+      <p class="pub-meta"><em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society </em><a href="https://escholarship.org/content/qt1j746305/qt1j746305.pdf" target="_blank">[Paper]</a></p>
     </div>
   </div>
 
@@ -38,7 +47,7 @@ tags:
     <div class="pub-detail">
       <p class="pub-title"><strong>MOTIVE: A Drug-Target Interaction Graph For Inductive Link Prediction</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, John Arevalo, Anne E. Carpenter, Shantanu Singh</p>
-      <p class="pub-meta">NeurIPS Datasets and Benchmarks. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank">[Paper]</a></p>
+      <p class="pub-meta"> <em>NeurIPS Datasets and Benchmarks </em> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank">[Paper]</a></p>
     </div>
   </div>
 
