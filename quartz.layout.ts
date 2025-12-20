@@ -7,9 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [Component.TopNav()],
   footer: Component.Footer({
     links: {
+      CV: "Attachments/currCV.pdf", // Add this line
       "Google Scholar": "https://scholar.google.com/citations?hl=en&user=Tzp43qcAAAAJ",
-      "GitHub": "https://github.com/eysu35/",
-      "LinkedIn": "https://www.linkedin.com/in/ellen-su-4384221a6/",
+      GitHub: "https://github.com/eysu35/",
+      LinkedIn: "https://www.linkedin.com/in/ellen-su-4384221a6/",
     },
   }),
 }
@@ -42,9 +43,10 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     // Component.Darkmode({displayClass: "hidden"}),
     Component.PageTitle(),
-    // Component.Breadcrumbs(), 
-    // Component.ArticleTitle(), 
-    Component.ContentMeta()],
+    // Component.Breadcrumbs(),
+    // Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     // Component.PageTitle(),
     // Component.MobileOnly(Component.Spacer()),

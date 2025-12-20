@@ -1,11 +1,11 @@
 ---
 title: "Publications"
-draft: 
+draft:
 tags:
-  - 
+  -
 ---
-<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SHLL8D9TP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9SHLL8D9TP'); </script>
 
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SHLL8D9TP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9SHLL8D9TP'); </script>
 
 <div class="pub-list">
 
@@ -17,7 +17,7 @@ tags:
     <div class="pub-detail">
       <p class="pub-title"><strong>Opinion: Learning Intuitive Physics Requires More Than Visual Data</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Solim Legris, Todd M. Gureckis, Mengye Ren</p> 
-      <p class="pub-meta"><em> NeurIPS Embodied World Models for Decision Making Workshop</em> <a href="https://openreview.net/pdf?id=z9WKQF2kJD" target="_blank">[Paper]</a></p>
+      <p class="pub-meta"><em> NeurIPS Embodied World Models for Decision Making Workshop</em> <a href="https://www.arxiv.org/pdf/2512.06232" target="_blank">[Paper]</a></p>
     </div>
   </div>
 

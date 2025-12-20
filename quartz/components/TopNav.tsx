@@ -8,10 +8,23 @@ const TopNav: QuartzComponent = (props: QuartzComponentProps) => {
     <div className="top-nav-wrapper">
       <nav className="top-nav">
         <div className="nav-links">
-          <a href="/" className="nav-link">Home</a>
-          <a href="/Publications" className="nav-link">Publications</a>
-          <a href="/Thoughts" className="nav-link">Thoughts</a>
-          <a href="/CV" className="nav-link">CV</a>
+          <a href="/" className="nav-link">
+            Home
+          </a>
+          <a href="/Publications" className="nav-link">
+            Publications
+          </a>
+          <a href="/Thoughts" className="nav-link">
+            Thoughts
+          </a>
+          <a
+            href="/Attachments/currCV.pdf"
+            className="nav-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            CV
+          </a>{" "}
         </div>
         <div className="nav-darkmode">
           <DarkmodeComponent {...props} />
@@ -20,7 +33,6 @@ const TopNav: QuartzComponent = (props: QuartzComponentProps) => {
     </div>
   )
 }
-
 
 TopNav.css = `
 .top-nav-wrapper {
@@ -57,6 +69,5 @@ TopNav.css = `
   align-items: center;
 }
 `
-
 
 export default (() => TopNav) satisfies QuartzComponentConstructor
