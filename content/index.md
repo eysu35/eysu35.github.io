@@ -24,7 +24,7 @@ Enjoy photos from my favorite sunrise hikes as you browse through:
 
 &emsp; - my [[Thoughts]],
 
-&emsp; - and my <a href="Attachments/currCV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+&emsp; - and my <a href="/currCV.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
 ---
 
