@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+date: 2026-09-12
+lastmod: 2026-09-12
 draft:
 tags:
   -
@@ -9,8 +11,23 @@ tags:
 
 <div class="pub-list">
 
-  <!-- 2025 Publications -->
-  <div class="pub-year">2025</div>
+  <div class="pub-entry">
+    <div class="pub-label">arXiv</div>
+    <div class="pub-detail">
+      <p class="pub-title"><strong>Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization</strong></p>
+      <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Andres Potapczynski, Shikai Qiu, Edward Hughes, Andrew Gordon Wilson</p>
+      <p class="pub-meta"><a href="https://doi.org/10.48550/arXiv.2608.11746" target="_blank">[Preprint]</a></p>
+    </div>
+  </div>
+
+  <div class="pub-entry">
+    <div class="pub-label">CCN</div>
+    <div class="pub-detail">
+      <p class="pub-title"><strong>Timing of Guidance Shapes Experiential Learning</strong></p>
+      <p class="pub-authors">Divya Srinivasan, <span style="color: orange;">Ellen Su</span>, Mark K. Ho, Todd M. Gureckis</p>
+      <p class="pub-meta"><em>9th Annual Conference on Cognitive Computational Neuroscience</em></p>
+    </div>
+  </div>
 
   <div class="pub-entry">
     <div class="pub-label">NeurIPS</div>
@@ -29,9 +46,6 @@ tags:
       <p class="pub-meta"><em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society </em><a href="https://escholarship.org/content/qt1j746305/qt1j746305.pdf" target="_blank">[Paper]</a></p>
     </div>
   </div>
-
-  <!-- 2024 Publications -->
-  <div class="pub-year">2024</div>
 
   <div class="pub-entry">
     <div class="pub-label">arXiv</div>
@@ -96,16 +110,6 @@ tags:
 .pub-meta {
   margin: 0;
   font-size: 0.9rem;
-}
-
-.pub-year {
-  font-size: 1.15rem;
-  font-weight: bold;
-  color: #fff;
-  margin: 2rem 0 0.5rem 0;
-  border-bottom: 1px solid #444;
-  padding-bottom: 0.25rem;
-  text-transform: uppercase;
 }
 
 </style>
