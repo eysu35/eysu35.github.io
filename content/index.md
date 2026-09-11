@@ -1,7 +1,7 @@
 ---
 title: Hi,
-date: 2026-09-12
-lastmod: 2026-09-12
+date: 2026-09-12T12:00:00-04:00
+lastmod: 2026-09-12T12:00:00-04:00
 ---
 
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SHLL8D9TP"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9SHLL8D9TP'); </script>
