@@ -12,11 +12,11 @@ tags:
 <div class="pub-list">
 
   <div class="pub-entry">
-    <div class="pub-label">arXiv</div>
+    <div class="pub-label">NeurIPS</div>
     <div class="pub-detail">
       <p class="pub-title"><strong>Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization</strong></p>
       <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Andres Potapczynski, Shikai Qiu, Edward Hughes, Andrew Gordon Wilson</p>
-      <p class="pub-meta"><a href="https://doi.org/10.48550/arXiv.2608.11746" target="_blank">[Preprint]</a></p>
+      <p class="pub-meta"><a href="https://doi.org/10.48550/arXiv.2608.11746" target="_blank">[Paper]</a></p>
     </div>
   </div>
 

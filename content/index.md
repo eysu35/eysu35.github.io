@@ -12,6 +12,106 @@ Previously at Princeton, I completed my Bachelor of Science in Computer Science 
 
 Key interests: machine learning, cognitive science, AI
 
+<div style="clear: both;"></div>
+
+## Updates
+
+<div class="updates-box">
+  <div class="updates-list">
+
+  <div class="update-entry">
+    <div class="update-date">Sep 2026</div>
+    <div class="update-text">Started as a Visiting Researcher at Meta FAIR, supported by Meta's AI Mentorship (AIM) program. </div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Sep 2026</div>
+    <div class="update-text"><em>Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization</em> was accepted to <strong>NeurIPS 2026</strong>!</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Aug 2026</div>
+    <div class="update-text"> I will be at MBL Woods Hole for the month to attend the <a href="https://cbmm.mit.edu/summer-school" target="_blank">Brains, Minds and Machines</a> summer program.</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Aug 2026</div>
+    <div class="update-text">New preprint on <a href="https://doi.org/10.48550/arXiv.2608.11746" target="_blank">arXiv</a>: epiplexity-guided data selection for OOD generalization.</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Aug 2026</div>
+    <div class="update-text">We are presenting <em>Timing of Guidance Shapes Experiential Learning</em> at <strong>CCN 2026</strong>.</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Dec 2025</div>
+    <div class="update-text">Excited to announce that we will be presenting <em>Learning Intuitive Physics Requires More Than Visual Data</em> at the <strong>NeurIPS</strong> Embodied World Models for Decision Making workshop!</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">June 2025</div>
+    <div class="update-text">Happy to announce that <em>Integration of Language and Experience via the Instructed Bandit Task</em> was accepted for <strong>CogSci 2025</strong>.</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Sep 2024</div>
+    <div class="update-text"><em>MOTIVE: A Drug-Target Interaction Graph for Inductive Link Prediction</em> was just selected as a <span style="color: gold;">spotlight</span> paper at <strong>NeurIPS</strong> Datasets &amp; Benchmarks.</div>
+  </div>
+
+  <div class="update-entry">
+    <div class="update-date">Sep 2024</div>
+    <div class="update-text">Started my PhD at the <a href="https://cds.nyu.edu/" target="_blank">NYU Center for Data Science</a>!</div>
+  </div>
+
+  </div>
+</div>
+
+<style>
+.updates-box {
+  clear: both;
+  max-height: 230px;
+  overflow-y: auto;
+  padding: 0.25rem 1rem 0.25rem 0;
+  border-left: 2px solid var(--lightgray);
+  padding-left: 1rem;
+  scrollbar-width: thin;
+}
+
+.updates-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.update-entry {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 1rem;
+  align-items: baseline;
+}
+
+.update-date {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gray);
+  white-space: nowrap;
+}
+
+.update-text {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .update-entry {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}
+</style>
+
 ---
 
 </figure>
