@@ -12,6 +12,15 @@ tags:
 <div class="pub-list">
 
   <div class="pub-entry">
+    <div class="pub-label">PsyArXiv</div>
+    <div class="pub-detail">
+      <p class="pub-title"><strong>Language Shapes Experiential Learning in Humans and Machines</strong></p>
+      <p class="pub-authors"><span style="color: orange;">Ellen Su</span>, Divya Srinivasan, Mark K. Ho, Todd M. Gureckis</p>
+      <p class="pub-meta"><a href="https://osf.io/preprints/psyarxiv/8ahkm_v1" target="_blank">[Preprint]</a></p>
+    </div>
+  </div>
+
+  <div class="pub-entry">
     <div class="pub-label">NeurIPS</div>
     <div class="pub-detail">
       <p class="pub-title"><strong>Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization</strong></p>
