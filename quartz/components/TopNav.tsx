@@ -17,7 +17,7 @@ const TopNav: QuartzComponent = (props: QuartzComponentProps) => {
           <a href="/Thoughts" className="nav-link">
             Thoughts
           </a>
-          <a href="/currCV.pdf" className="nav-link" target="_blank" rel="noopener noreferrer">
+          <a href="/Attachments/currCV.pdf" className="nav-link" target="_blank" rel="noopener noreferrer">
             CV
           </a>{" "}
         </div>

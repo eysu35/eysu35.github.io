@@ -1,5 +1,9 @@
+---
+title: "CV"
+---
+
+<p><a href="/Attachments/currCV.pdf" target="_blank" rel="noopener noreferrer">View my CV (PDF)</a></p>
+
 <script>
-  window.onload = function() {
-    window.open("Attachments/currCV.pdf", "_blank");
-  };
+  window.location.replace('/Attachments/currCV.pdf');
 </script>
